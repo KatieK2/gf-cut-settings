@@ -4,6 +4,7 @@ Record of cut settings and results for various non-standard media on the Glowfor
 ## Corrugated Cardboard
 
 > 150 / 50 (speed / power)
+> Usually .125" (1/8")
 
  * Great for prototyping because it's free from Amazon. Most of mine is .125 (1/8) inches thick. Measure yours if precision is important. 
  * Ideally the cardboard should lie flat in the Glowforge's bed; the laser will focus based on that assumption. Avoid cutting over bumps or divots in the material. 
