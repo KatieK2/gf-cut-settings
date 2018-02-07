@@ -1,9 +1,10 @@
 # Glowforge Cut Settings
-Record of cut settings and results for various non-standard media on the Glowforge laser cutter.
+Record of cut and engrave settings and results for various non-standard media on the Glowforge laser cutter.
 
 ## Corrugated Cardboard
 
-> 150 / 50 (speed / power)
+> Cut: 150 / 50 (speed / power)
+> Engrave: 1000 / 50 (speed / power)
 > Usually .125" (1/8")
 
  * Great for prototyping because it's free from Amazon. Most of mine is .125 (1/8) inches thick. Measure yours if precision is important. 
