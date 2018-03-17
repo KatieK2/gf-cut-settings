@@ -1,6 +1,10 @@
 # Glowforge Cut Settings
 Record of cut and engrave settings and results for various non-standard media on the Glowforge laser cutter.
 
+Also note that the Glowforge's [kerf](https://community.glowforge.com/t/what-is-the-cut-width-of-the-laser/220/6) is:
+
+> 0.008" - 0.022" depending on material
+
 ## Corrugated Cardboard
 
 > Cut: 150 / 50 (speed / power)
