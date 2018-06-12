@@ -5,7 +5,7 @@ Record of settings used to success for various non-standard media on the Glowfor
 
 > * Cut: 150 / 50 (speed / power)
  
-> * Score: 500 / 50 (speed / power)
+> * Score: 500 / 40 (speed / power)
 
 > * Engrave: 1000 / 50 (speed / power)
 
