@@ -4,9 +4,7 @@ Record of settings used to success for various non-standard media on the Glowfor
 ## Corrugated Cardboard
 
 > * Cut: 150 / 50 (speed / power)
- 
 > * Score: 500 / 40 (speed / power)
-
 > * Engrave: 1000 / 50 (speed / power)
 
 > LPI: 225 (But you can use a much lower LPI for a faster prototype if you're not looking at quality here.)
